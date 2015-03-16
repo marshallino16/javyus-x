@@ -1,0 +1,11 @@
+{
+  "name": "javyus-x",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Minimalist syntax theme, created for Java",
+  "repository": "https://github.com/atom/genyus-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
