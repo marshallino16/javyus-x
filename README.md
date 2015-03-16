@@ -8,7 +8,9 @@ Minimalist syntax theme for Java, based on xCode syntax colors.
 Installation
 ----
 
-```apm install javyus-x```
+```
+apm install javyus-x
+```
 
 or open Atom settings view and search ```javyus-x```.
 
