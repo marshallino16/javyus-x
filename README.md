@@ -5,15 +5,24 @@ javyus-x - Atom Syntax theme
 
 Minimalist syntax theme for Java, based on xCode syntax colors.
 
-Instalaltion
+Installation
 ----
 
-incomming
+```apm install javyus-x````
+
+or open Atom settings view and search ```javyus-x```.
 
 Version 
 ----
-1.0.0
+1.1.0
 
 Preview
 ----
 ![preview](http://img15.hostingpics.net/pics/179500Capturedcran20150316170742.png)
+
+License
+---
+
+```text
+The MIT License (MIT)
+```
