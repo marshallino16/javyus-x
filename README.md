@@ -1,5 +1,19 @@
-# genyus-syntax theme
+javyus-x - Atom Syntax theme
+========
 
-A short description of your theme.
+![banner](http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/02/atom-786x245.jpg)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Minimalist syntax theme for Java, based on xCode syntax colors.
+
+Instalaltion
+----
+
+incomming
+
+Version 
+----
+1.0.0
+
+Preview
+----
+![preview](http://img15.hostingpics.net/pics/179500Capturedcran20150316170742.png)
